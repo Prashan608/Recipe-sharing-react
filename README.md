@@ -90,17 +90,5 @@ src/
 └── main.jsx            # React entry point
 
 
-🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
 
-
----
-
-If you'd like, I can also generate:
-
-🔥 A version with screenshots  
-🔥 A version with badges (Netlify, React, MIT License, etc.)  
-🔥 A README for your Tenant–Landlord project in the same style  
-
-Just say the word!
 
